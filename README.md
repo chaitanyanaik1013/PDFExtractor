@@ -11,7 +11,7 @@ This project processes your account statements pdf file and documents them in .c
 First, **clone the repository** to your local computer by running the following command:
 
 ```bash
-git clone <>
+git clone <https://github.com/chaitanyanaik1013/PDFExtractor.git>
 ```
 
 ### 2. Prepare the Account Statements File
